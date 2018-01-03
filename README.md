@@ -1,4 +1,4 @@
-<?php
+
 function pd($pm1, $pm2 = 'aaaaa2', $pm3 = 'bbbbb3', $pm4 = 'ccccc4', $pm5 = 'ddddd5')
 {
     header("Content-type: text/html; charset=utf-8");
